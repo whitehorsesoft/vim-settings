@@ -1,0 +1,6 @@
+#!/bin/bash
+# Copy vim settings, Linux
+
+cp ./vimrc ~/.vimrc
+cp -R colors/ ~/.vim/
+
