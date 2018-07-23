@@ -17,4 +17,3 @@ if has('gui_running')
 endif
 set fdm=manual
 set guifont=Monospace\ 10
-imap { {<CR>}<Esc>O<Tab>
